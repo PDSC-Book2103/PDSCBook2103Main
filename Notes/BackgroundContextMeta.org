@@ -1,0 +1,70 @@
+* Background - Context - Meta
+
+** From human code to machine code
+
+** Syntax and Semantics
+
+** Naming things. All that identifier business
+
+Why we need namespaces ... and the sc versions of that. Closures vs Environments.
+
+Particularities: The context of closures and environments in threads.  The uses and trappings of that.
+
+** Recursion
+
+** Symmetry
+
+*** Palindrome
+** Randomness vs. Chaos
+
+** Measuring perception sense, sensing, meaning
+
+** Signal, Information, Medium, Communication, Code
+
+** Sine, cosine, frequency - and a possible connection to logarithmic perception of pitch
+
+https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%AC%CF%83%CF%84%CE%B7%CE%BC%CE%B1_(%CE%BC%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AE)
+
+** Ancient Greek Music Theory
+
+** Indian Music Theory
+
+*** Pitch and melody
+**** Swara
+
+https://www.youtube.com/watch?v=EL4OEaYAdcw
+
+https://en.wikipedia.org/wiki/Svara
+
+12 Swara Sthanams in Music
+
+**** Shruti
+
+**** Grama
+
+https://en.wikipedia.org/wiki/Shruti_(music)#Grama_system
+
+**** Mela
+
+https://en.wikipedia.org/wiki/Shruti_(music)#Mela_system
+
+**** Raga
+
+**** Gati
+
+**** Tisram
+
+**** Gamaka
+
+**** Brigha
+
+**** Kan Swar
+
+*** Rhythm
+
+**** Tala
+
+**** Konnakol
+
+** Comparative mode stuff
+*** Maya Malava Goula / Hijaz Humayun / Hicazkar / Πλ. Δευτέρου / Νενανώ

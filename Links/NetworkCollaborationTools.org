@@ -1,0 +1,267 @@
+# 5 Mar 2021 14:49
+From: https://docs.google.com/spreadsheets/d/1MB3851bYY6iQhLoOhlDl4qTdYYbRWfdopcdbu1_mY4A/edit#gid=0
+
+remote collaboration tools	PUBLIC - everybody feel free to edit!
+SERVICE	DESCRIPTIONS ("taken from their websites")
+	
+* "links to articles/summaries
+of online tools:"	"https://opensource.com/article/20/3/open-source-working-home
+"
+	"https://bits-und-baeume.org/livestream/de
+https://bits-und-baeume.org/downloads/2020-03-22-Vortragsgespraech-Video-Text-Tools.pdf"
+	https://community.retune.de/t/teaching-remotely/16
+	https://hochschulforumdigitalisierung.de/de/Toolsammlung-Corona
+Ideas for online teaching and learning design	https://docs.google.com/document/d/1C5XFUJnu2aVwAdESFkxnu1A6786FYmLadsGI3_2d2eU/edit#
+	https://en.unesco.org/themes/education-emergencies/coronavirus-school-closures/solutions
+Please do a bad job of putting your courses online	https://anygoodthing.com/2020/03/12/please-do-a-bad-job-of-putting-your-courses-online/
+Die #Edunauten sind ein Unkurs zum Online-Lernen	https://edunauten.de/idee/
+
+* tiny tools round up	https://github.com/iani/sonarts_compmus_2020/blob/master/Links/OpenSourceExperimentalTinyToolsRoundup.md?fbclid=IwAR0ptK1TfE2iiZkupz2aBRhfTF7VggGMKXMTUmst2mvKsbwAUiKPeHBbQE8
+fabricademy handbook	http://fabricademy.fabcloud.io/handbook/
+Teaching Effectively During Times of Disruption, for SIS and PWR	https://docs.google.com/document/d/1ccsudB2vwZ_GJYoKlFzGbtnmftGcXwCIwxzf-jkkoCU/edit
+Teaching Remotely at Boise State: A Guide	https://docs.google.com/document/d/1gKYDeJvCof_MGUXWWxg0olD0nWbccYfEvv_hy94EhgU/edit
+Ideas for teaching clay online	https://docs.google.com/document/d/10L9zp1UlMItlUgWq5earU_UAML9-sYhMQwy0bxfMCUI/edit?fbclid=IwAR3nZlmznSarDakGQfXdvxKfMUp4dRirR_KZVfJOmLk4eC2Tyhr86VXz7CI
+Teaching in the context of COVID-19	https://docs.google.com/document/d/1yBE1cCqJ_4M-JZ62K4CefmYsZugqAWkGmZmdwESt0IM/edit
+Resources for Online Instruction // VISUAL+STUDIO Arts Courses	https://docs.google.com/document/d/1bkbcZIVuPh9MXnPP2o5Wm02qXn2OVzymu9R5jEhOhTA/edit#heading=h.umfzm6rl9hbn
+Teaching-Design-Bibliography	https://docs.google.com/spreadsheets/d/1QMzp9-y_rOkj-m7uEHldjmMK2zsL_t9lpoxdMg_Cce8/edit#gid=779391913
+teaching design online	https://docs.google.com/document/d/1C5XFUJnu2aVwAdESFkxnu1A6786FYmLadsGI3_2d2eU/edit#heading=h.lu4qu4iz0as
+	https://hochschulforumdigitalisierung.de/de/hochschulen-und-corona-was-jetzt
+	https://www.profil.uni-muenchen.de/universitas-digitalis/links-e-learning/index.html
+Tools für Hochschullehre	https://trello.com/b/8SbDGtdo/digitale-tools-f%C3%BCr-die-hochschullehre 
+Facebook Gruppe Online Art & Design Studio Instruction in the Age of “Social Distancing”	https://www.facebook.com/groups/2872732516116624/?ref=bookmarks
+Open source, experimental, and tiny tools roundup	https://everest-pipkin.com/teaching/tools.html
+Agentur für Wissenschaftskommunikation und Veranstaltungsorganisation Congressa	https://docs.google.com/spreadsheets/d/1retD7xTjBeVuy7KI0kptX2JRg3Hht_Gcu0iweCia2TM/htmlview#gid=630266813
+dokART Labor	https://sites.google.com/view/dokartlabor/projekte/das-dokumentarische-im-digitalen/digitale-ressourcen?authuser=0
+HU-Berlin Freie Software	https://www.projekte.hu-berlin.de/de/gnuHU/anleitungen/digitale-konferenzen/
+	
+	
+* MESSAGING	"modern form of sms that allows for individual and group chats that go over internet
+primarily used via mobile apps on smartphones 
+some offer web-based versions or software for compter operating systems
+some offer voice and video calling
+some even offer group calling"
+Discord	comes from gaming, used for many communities to keep in touch. Does it all basically
+Skype	familiar
+Telegram	End-to-End encrypted, powerful API for Bots and the like, self-destroying messages, etc. 
+Signal	secure
+RIOT by Matrix	open source, can use without account! - can be self hosted
+Facetime	facebook
+WhatsApp	hip, popular
+MSN	oldschool
+DfConf	german research network build on adobe connect
+Groupme	
+Wire	messaging app - clean interface > https://wire.com/en/ - beware, security and privacy issues
+Mattermost	Like Slack but Open Source software (well almost)
+Slack	Slack replaces email within your company
+Microsoft Teams	
+LeapChat	Instant Chatroom Sharebale via Link Encrypted
+stashcat	German Hosted DSGVO-conform
+VIDEO CONFERENCING	multiple people using video + audio at same time
+Skype	common
+Jitsi	"Free open-source video conferencing for web & mobile. Make a call, launch on your own servers in minutes, integrate into your app, or develop something new."
+zoom	"Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars ..."
+Wire	Best quality Video with sound algorithm cancelling background noise - https://wire.com/en/
+Discord	"All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone. Stop paying for TeamSpeak servers and hassling with Skype. Simplify your life."
+Google Hangout	easy to use
+Whereby	
+BlueJeans	
+Adobe Connect	Go Beyond Web Conferencing - Create exceptional digital training, webinar and collaboration experiences
+Samba.Live	
+BigBlueButton	opensource
+Teamviewer	
+TeamVideo	
+Sneek	Sneek lets you see your team mates all day and start instant video chats with a single click.
+Blizz	
+GotoMeetings	
+Cisco WebEx	
+Vitero	Fraunhofer Spin-Off; max 80 people in a room but only 2 webcams possible
+dfn	Deutsches Forschungs Netzwerk, only for universities
+https://openmeetings.apache.org/	
+"PROJECT 
+MANAGEMENT"	"todolists
+ticketing"
+Jira	Plan, track, and manage your agile and software development projects in Jira.
+Trello	
+flowdock	"brings all of your conversations, work items and tools into one place.
+Real-time team chat for your entire organization."
+Asana	Asana is the work management platform teams use to stay focused on the goals, projects, and daily tasks that grow business. 
+Instagantt (links with Asana)	Online Gantt Chart Software to make Project Timelines and Gantt Charts. Manage your schedules, and timelines like a Pro with the best Gantt chart maker.
+GitLab - Boards	
+GitKraken Glo	Like Trello, a little more fleshed-out towards agile workflows
+Wunderlist (Microsoft to do)	basic task list
+OpenProject	Like Jira, but can be self-hosted and is open source
+"STATIC & COLLABORATIVE
+FILE SHARING &
+DOCUMENT EDITING"	"STATIC: simply sharing files of all formats
+COLLABORATIVE: live collective editing"
+OnlyOffice	"Run your private cloud office - ONLYOFFICE provides you with the most secure way to create, edit and collaborate on business documents online"
+Google Drive also with extended features as Google Suite for Education	"very popular
+download application for off-line access
+file types: text documents, spreadsheets, presentations, questionnairs"
+Dropbox	
+Own Cloud	OpenSource. Nextcloud with fewer features. Use Nextcloud instead.
+Microsoft Office 365	must have a solution they offer?
+Nextcloud	A fork of Owncloud. Offers GoogleDocs like document sharing/editing. 
+Creative cloud	Creative Cloud is a collection of 20+ desktop and mobile apps and services for photography, design, video, web, UX and more.
+Pirate Pad	open source
+Framapad	open source
+Etherpad	open source, self hosted real time text editing. "Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time"
+Infolio	like a pinboard
+GitHub	great for code and text
+GitLab	great for code and text
+HackMD	Markdown based collaborative writing
+Padlet	collaborative  presentations
+OBS studio	for broadcasting
+"WEBSITE
+BUILDING
+TOOLS & TEMPLATES"	blog vs. wiki?
+WordPress	
+Tumbler	
+Wikimedia	
+Hugo	
+Squarespace	Squarespace is the all-in-one solution for anyone looking to create a beautiful website.
+Hotglue	"HOTGLUE is a visual tool for making amazing web-pages!
+Simply manipulate pictures, text and video directly in a browser window!
+Editing a page looks exactly the same as viewing it, the only difference is that you can move things around!
+No programming skills needed! "
+Indexhibit	"Indexhibit is a pioneering, influential, web-based content management system (CMS), founded in 2006 by Jeffery Vaska and Daniel Eatock, which is used primarily to create online portfolios (image, text and video)."
+"PUBLICATION & REFERENCE MANAGING
+"	"collecting links and citations for:
+books
+publications
+academic papers
+...
+links?"
+Zotero	(open source ? ) Your personal research assistant - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
+Mendelay	Stay on top of your research - With the Mendeley Reference Manager, you can easily organize and search your personal library, annotate documents and cite as you write. 
+	
+PODCASTING TOOLS	
+audacity	audio editor, open source
+Adobe audition	nice Audio editor, part of Adobe suite, closed source, free for covid-19 times, easily pirateable
+Anchor	"the only app that lets you create and host unlimited episodes and distribute your show everywhere with a single tap."
+zencastr	podcast tool, records audiodata locally
+"DIGITAL CLASSROOM
+ONLINE CURRICULA
+COURSEWEAR?"	
+Moodle	"Moodle is the world's most popular learning management system."
+Kialo	Tool for Discussion in Classroom
+	
+ONLINE VIDEO SHARING & STREAMING & (COLLABORATIVE EDITING)	
+YouTube	
+Vimeo	
+Peertube	
+Twitch	used by gamers to live-stream their game experiances
+OpenStreamingPlatform	"Open Streaming Platform (OSP) is an open-source, RTMP streamer software [...]  OSP was designed as a self-hosted alternative to services such as Twitch.tv, Ustream.tv, Mixer, and Youtube Live."
+antmedia	
+UpStage	UpStage is a web-based venue for online performance: remote performers collaborate in real time using digital media, and online audiences anywhere in the world join events by going to a web page, without having to download and install any additional software. UpStage is available free to anyone who would like to use it.
+SCREEN SHAREING & REMOTE ACCESS	
+mac built-in	
+Zoom	
+TeamViewr 	
+Slack	
+Google Meet (ex Hangout)	
+"ONLINE GAMES
+and other
+2D/3D VISUAL 
+MEETING SPACES"	
+second life	
+Minecraft	
+Hubs	mozilla
+quizalise	
+quizlet	
+Kahoot	One of the most popular sites for gamifying the classroom. Teachers creates games and quizzes and students answer them on their mobile devices. Offers a plan for every budget - free basic, pro and premium.
+PHOTO SHARING	"upload and organize photos
+public/private settings
+share
+comment
+like"
+Flickr	
+Instagram	
+Google images	
+Picasa?	
+Pixelfed	
+	
+"SHARED
+CALENDARS"	"upload and organize photos
+public/private settings
+share
+comment
+like"
+Google calendar	
+Mac	
+Nextcloud	
+"POLLING /
+DECISION MAKING"	
+Doodle	
+dudle	open source, (self-hosted)
+FramaDate	
+calendly	
+"QUESTIONNAIRS /
+SURVEYS"	
+Survey Monkey	
+Google Forms	
+Jotform	
+ninja forms (WordPress plugin)	
+"DRAWING
+TOGETHER (also see whiteborads)"	
+WBO	collaborative drawboard
+Drawpile	collaborative drawboard
+Vectr	webbase vector drawing tool, share editable Links
+Microsoft whiteboard	
+Adobe Sketchbook	Brilliant sketch software, and since the Covid pandemic free for download
+Miro	
+NEWSLETTERS	
+Mail Chimp	From email to postcards, websites to automations, our all-in-one Marketing Platform is perfect for powering growing businesses like yours.
+	
+	
+	
+	
+"MAILING
+LISTS"	
+Own email server	
+Mail Chimp	"Bring your audience data, marketing channels, and insights together so you can reach your goals faster. With Mailchimp, you can promote your business across email, social, landing pages, postcards, and more — all from a single platform."
+Google Groups	"All of your discussions in one place"
+	
+EMAIL PROVIDERS	free and secure email providers
+Systemli	"""Your friendly tech collective
+Non-commercial provider of privacy friendly communication. Without surveillance."""
+Proton mail	"Secure Email Based in Switzerland"
+	
+"SOCIAL MEDIA PLATFORMS /
+SOCIAL NETWORKS"	websites that facilitate the building of a network of contacts in order to exchange various types of content online
+Mastodon	indipendent, user-owned twitter alternative
+Twitter	"Twitter is a 'microblogging' system that allows you to send and receive short posts called tweets. ... Twitter users follow other users. If you follow someone you can see their tweets in your twitter 'timeline'. You can choose to follow people and organisations with similar academic and personal interests to you."
+Diaspora	
+Facebook	
+mighty networks	
+MISC	
+Open Processing	sharing and running processing sketches in browser
+Celtx	
+Sandstorm.io	 lets you install server apps easily, its possible to create a collabrotive workspace, bundeling different server apps
+Whiteboards	
+WBO	collaborative whiteboard - open and private boards - open source and self setup and hosting possible
+Miro	collaborative whiteboard
+OpenBoard	interactive whiteboard designed primarily for use in schools and universities
+Webjets	a desktop
+SpaceDeck	DiY Setup and Hosting
+WhiteboardFox	share a virtual whiteboard in real-time
+Groupboard	Payed special Version for Teaching
+Sketchboard	
+Milanote	
+Drawpile	
+are.na	
+nexboard	
+Whiteboard.com	
+Educreations	Digital, Collabrotive Whiteboard IOS / IPAD
+Mural	
+DESKLE	workspace for visual thinking, research, and collaboration.
+LucidChart	digital collaborative whiteboard + mindmapping (any diagram format really)
+MINDMAPS	
+Mindmeister	
+Coggle	
+	
+STOP MOTION / ANIMATION / FILM/video making	
+Stop Motion Studio	Let's Make a Movie. Want to create movies like Wallace and Gromit or those groovy Lego shorts on YouTube? Stop Motion Studio helps you to create terrific stop action movies with a whole host of unique features. Like the frame-by-frame editor, the never get lost timeline and the sound editor. 
+Stop Motion Studio	the world’s most trusted remote review and approval system.
+Rough Animator	
+Kden live	
