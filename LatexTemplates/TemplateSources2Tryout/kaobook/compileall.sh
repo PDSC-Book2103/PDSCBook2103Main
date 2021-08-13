@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Compile document
-xelatex -interaction=nonstopmode main
+pdflatex -interaction=nonstopmode main
 
 # Compile nomenclature
 makeindex main.nlo -s nomencl.ist -o main.nls
@@ -13,10 +13,10 @@ makeindex main
 biber main
 
 # Compile document
-xelatex main
+pdflatex main
 
 # Compile glossary
 makeglossaries main
 
 # Compile document
-xelatex main
+pdflatex main
