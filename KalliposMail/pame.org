@@ -1,0 +1,37 @@
+#+title: The Quest for Super Collider
+
+#+author: E. Rovithis, I. Zannos
+
+* TODO Curriculum
+| Software | midi   | audio      |
+|----------+--------+------------|
+| SC       | kati   | kati akoma |
+| Pd       | ki edw | kati exei  |
+
+
+* TODO Planning
+
+** June
+
+tyxaio keimeno
+
+
+** July
+
+ 1) learn Org Mode
+    *fast
+    *furious
+ 2) play Wow
+
+
+** August
+
+*bold*
+
+/plagia grammata/
+
+
+
+* Αίτημα Παράτασης
+
+μπλα μπλα μπλα
