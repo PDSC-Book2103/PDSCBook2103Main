@@ -1,0 +1,18 @@
+
+
+*** Unable to execute: '"xindy"  -L english  -I xindy -M "mainlua" -t "mainlua.glg" -o "mainlua.gls" "mainlua.glo"' ***
+
+Failed with error code 127.
+
+Status report:
+
+/usr/bin/xindy.run: error while loading shared libraries: libffcall.so.0: cannot open shared object file: No such file or directory
+
+xindy didn't create a transcript.
+Check that xindy has been installed and
+is on your system's PATH.
+Your PATH environment variable is set to: 
+/home/iani/.local/bin:/home/iani/.local/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin:/usr/lib/jvm/default/bin
+Try manually running:
+"xindy"  -L english  -I xindy -M "mainlua" -t "mainlua.glg" -o "mainlua.gls" "mainlua.glo"
+

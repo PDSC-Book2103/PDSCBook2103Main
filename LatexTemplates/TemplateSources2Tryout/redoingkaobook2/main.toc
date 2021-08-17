@@ -1,0 +1,123 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\nonumberline Contents}{v}{chapter*.1}%
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\defcounter {refsection}{0}\relax
+\etoc@startlocaltoc {2}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {1.1}The Main Ideas}{1}{section.1.1}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {1.2}What This Class Does}{1}{section.1.2}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {1.3}What This Class Does Not Do}{2}{section.1.3}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {1.4}How to Use This Class}{3}{section.1.4}%
+\defcounter {refsection}{0}\relax
+\contentsline {part}{\nonumberline Class Options, Commands and Environments}{4}{part*.6}%
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {2}Class Options}{5}{chapter.2}%
+\defcounter {refsection}{0}\relax
+\etoc@startlocaltoc {3}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {2.1}\texttt {KOMA} Options}{5}{section.2.1}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {2.2}\texttt {kao} Options}{5}{section.2.2}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {2.3}Other Things Worth Knowing}{6}{section.2.3}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {2.4}Document Structure}{6}{section.2.4}%
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {3}Margin Stuff}{8}{chapter.3}%
+\defcounter {refsection}{0}\relax
+\etoc@startlocaltoc {4}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {3.1}Sidenotes}{8}{section.3.1}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {3.2}Marginnotes}{8}{section.3.2}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {3.3}Footnotes}{9}{section.3.3}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {3.4}Margintoc}{9}{section.3.4}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {3.5}Marginlisting}{9}{section.3.5}%
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {4}Figures and Tables}{11}{chapter.4}%
+\defcounter {refsection}{0}\relax
+\etoc@startlocaltoc {5}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {4.1}Normal Figures and Tables}{11}{section.4.1}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {4.2}Margin Figures and Tables}{12}{section.4.2}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {4.3}Wide Figures and Tables}{13}{section.4.3}%
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {5}References}{14}{chapter.5}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {5.1}Citations}{14}{section.5.1}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {5.2}Glossaries and Indices}{15}{section.5.2}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {5.3}Hyperreferences}{16}{section.5.3}%
+\defcounter {refsection}{0}\relax
+\contentsline {part}{\nonumberline Design and Additional Features}{17}{part*.14}%
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {6}Page Design}{18}{chapter.6}%
+\defcounter {refsection}{0}\relax
+\etoc@startlocaltoc {6}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {6.1}Headings}{18}{section.6.1}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {6.2}Headers \& Footers}{19}{section.6.2}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {6.3}Table of Contents}{19}{section.6.3}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {6.4}Page Layout}{20}{section.6.4}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {6.5}Numbers \& Counters}{20}{section.6.5}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {6.6}White Space}{21}{section.6.6}%
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {7}Mathematics and Boxes}{22}{chapter.7}%
+\defcounter {refsection}{0}\relax
+\etoc@startlocaltoc {7}
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {7.1}Theorems}{22}{section.7.1}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {7.2}Boxes \& Environments}{23}{sidenote.7.3}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {7.3}Experiments}{24}{section.7.3}%
+\defcounter {refsection}{0}\relax
+\contentsline {part}{\nonumberline Appendix}{25}{part*.17}%
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\numberline {A}Heading on Level\xspace 0 (chapter)}{26}{appendix.A}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {A.1}Heading on Level\xspace 1 (section)}{26}{section.A.1}%
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\nonumberline Heading on Level\xspace 2 (subsection)}{26}{subsection*.19}%
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\nonumberline Heading on Level\xspace 3 (subsubsection)}{26}{subsubsection*.21}%
+\defcounter {refsection}{0}\relax
+\contentsline {paragraph}{\nonumberline Heading on Level\xspace 4 (paragraph)}{27}{paragraph*.23}%
+\defcounter {refsection}{0}\relax
+\contentsline {section}{\numberline {A.2}Lists}{27}{section.A.2}%
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\nonumberline Example for list\xspace (itemize)}{27}{subsection*.25}%
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*itemize)}{27}{subsubsection*.27}%
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\nonumberline Example for list\xspace (enumerate)}{27}{subsection*.29}%
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*enumerate)}{28}{subsubsection*.31}%
+\defcounter {refsection}{0}\relax
+\contentsline {subsection}{\nonumberline Example for list\xspace (description)}{28}{subsection*.33}%
+\defcounter {refsection}{0}\relax
+\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*description)}{28}{subsubsection*.35}%
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\nonumberline Bibliography}{29}{chapter*.36}%
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{\nonumberline Notation}{30}{chapter*.37}%
+\defcounter {refsection}{0}\relax
+\contentsline {chapter}{Alphabetical Index}{31}{section*.38}%
