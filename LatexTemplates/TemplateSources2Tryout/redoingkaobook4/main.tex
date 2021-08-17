@@ -12,6 +12,7 @@
 \usepackage{polyglossia}
 \setdefaultlanguage{english}
 \setotherlanguages{greek}
+\usepackage{csquotes}
 
 \usepackage{styles/kaobiblio}
 \addbibresource{main.bib} % Bibliography file
@@ -28,5 +29,15 @@
 
 \input{titlepage2.tex}
 
+\input{contenttables.tex}
+
 \input{firstdummytext.tex}
+
+\input{firstdummytext.tex} % again
+
+\mainmatter % Denotes the start of the main document content, resets page numbering and uses arabic numbers
+\setchapterstyle{kao} % Choose the default chapter heading style
+
+\input{chapters/introduction.tex}
+
 \end{document}
