@@ -1,6 +1,6 @@
 \documentclass[fontsize=10pt, twoside=false, numbers=noenddot]{kaobook}
 
-\usepackage{fontspec} % added OK!
+\usepackage{fontspec}
 
 \newfontfamily{\greekfont}{FreeSerif}
 
@@ -15,18 +15,21 @@
 
 \usepackage{styles/kaobiblio}
 \addbibresource{main.bib} % Bibliography file
+\usepackage{styles/mdftheorems}
 
+\graphicspath{{examples/documentation/images/}{images/}} % Paths in which to look for images
 \sloppy
 
 \begin{document}
 
-I have added the bib file now.  I hope it all still compiles.  Starting to add kaobook formatting from the template from latextemplates.org via Overleaf.  The next word was not printed, because I failed to switch to greek for it:
+This building from scratch is slow but it will succeed.
 
 \(Ελληνικά ...\), greek. \textbf{\textit{accident}}, and \textbf{\textit{ατύχημα.}}
 
 Now trying to fix this by enclosing it in a textgreek statement:
 The following word is going to be in Greek: \textgreek{Ελληνικά}. And continuing in English...
 
+Some more greek here: \textgreek{ελληνικά.  Μπράβο.}
 
 \begin{greek}
   Ελληνικά.

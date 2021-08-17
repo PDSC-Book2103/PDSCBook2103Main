@@ -1,0 +1,5 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[0] Config.pm:315> INFO - Logfile is 'mmainlua_fromscratch21081.blg'
+[86] biber:330> INFO - === Tue Aug 17, 2021, 20:54:41
+[181] Utils.pm:411> ERROR - Cannot find 'mmainlua_fromscratch21081.bcf'!
+[182] Biber.pm:132> INFO - ERRORS: 1

@@ -1,6 +1,6 @@
 \documentclass[fontsize=10pt, twoside=false, numbers=noenddot]{kaobook}
 
-\usepackage{fontspec} % added OK!
+\usepackage{fontspec}
 
 \newfontfamily{\greekfont}{FreeSerif}
 
@@ -16,11 +16,14 @@
 \usepackage{styles/kaobiblio}
 \addbibresource{main.bib} % Bibliography file
 
+\input{lualatex_template_pt01.tex}
+
 \sloppy
 
 \begin{document}
+\input{lualatex_testtext01.tex}
 
-I have added the bib file now.  I hope it all still compiles.  Starting to add kaobook formatting from the template from latextemplates.org via Overleaf.  The next word was not printed, because I failed to switch to greek for it:
+This building from scratch is slow but it will succeed.
 
 \(Ελληνικά ...\), greek. \textbf{\textit{accident}}, and \textbf{\textit{ατύχημα.}}
 

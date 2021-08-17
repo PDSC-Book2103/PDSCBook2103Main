@@ -1,49 +1,29 @@
-\documentclass[
-	fontsize=10pt, % Base font size
-	twoside=false, % Use different layouts for even and odd pages (in particular, if twoside=true, the margin column will be always on the outside)
-	%open=any, % If twoside=true, uncomment this to force new chapters to start on any page, not only on right (odd) pages
-	%chapterprefix=true, % Uncomment to use the word "Chapter" before chapter numbers everywhere they appear
-	%chapterentrydots=true, % Uncomment to output dots from the chapter name to the page number in the table of contents
-	numbers=noenddot, % Comment to output dots after chapter numbers; the most common values for this option are: enddot, noenddot and auto (see the KOMAScript documentation for an in-depth explanation)
-	%draft=true, % If uncommented, rulers will be added in the header and footer
-	%overfullrule=true, % If uncommented, overly long lines will be marked by a black box; useful for correcting spacing problems
-]{kaobook}
+\documentclass[fontsize=10pt, twoside=false, numbers=noenddot,]{kaobook}
+\usepackage{fontspec}
 
-% Set the language
-\usepackage[english]{babel} % Load characters and hyphenation
-\usepackage[english=british]{csquotes} % English quotes
+\newfontfamily{\greekfont}{FreeSerif}
 
-% Load packages for testing
-\usepackage{blindtext}
-%\usepackage{showframe} % Uncomment to show boxes around the text area, margin, header and footer
-%\usepackage{showlabels} % Uncomment to output the content of \label commands to the document where they are used
+\setmainfont{FreeSerif}
+% \setmainfont{Linux Libertine}
+\setsansfont{FreeSans}
+\setmonofont{FreeMono}
 
-% Load the bibliography package
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguages{greek}
+
+\usepackage{fontawesome}
+
+\usepackage[hyphens]{url}
+
 \usepackage{styles/kaobiblio}
 \addbibresource{main.bib} % Bibliography file
-
-% Load mathematical packages for theorems and related environments. NOTE: choose only one between 'mdftheorems' and 'plaintheorems'.
 \usepackage{styles/mdftheorems}
-%\usepackage{styles/plaintheorems}
-
-\graphicspath{{examples/documentation/images/}{images/}} % Paths in which to look for images
-
-\makeindex[columns=3, title=Alphabetical Index, intoc] % Make LaTeX produce the files required to compile the index
-
-\makeglossaries % Make LaTeX produce the files required to compile the glossary
-
-\makenomenclature % Make LaTeX produce the files required to compile the nomenclature
-
-% Reset sidenote counter at chapters
-%\counterwithin*{sidenote}{chapter}
-
-%----------------------------------------------------------------------------------------
-
+\graphicspath{{examples/documentation/images/}{images/}}
+\makeindex[columns=3, title=Alphabetical Index, intoc]
+\makeglossaries
+\makenomenclature
 \begin{document}
-
-%----------------------------------------------------------------------------------------
-%	BOOK INFORMATION
-%----------------------------------------------------------------------------------------
 
 \titlehead{The \texttt{kaobook} class}
 \subject{Use this document as a template}
@@ -57,29 +37,7 @@
 
 \publishers{An Awesome Publisher}
 
-%----------------------------------------------------------------------------------------
-
 \frontmatter % Denotes the start of the pre-document content, uses roman numerals
-
-%----------------------------------------------------------------------------------------
-%	OPENING PAGE
-%----------------------------------------------------------------------------------------
-
-%\makeatletter
-%\extratitle{
-%	% In the title page, the title is vspaced by 9.5\baselineskip
-%	\vspace*{9\baselineskip}
-%	\vspace*{\parskip}
-%	\begin{center}
-%		% In the title page, \huge is set after the komafont for title
-%		\usekomafont{title}\huge\@title
-%	\end{center}
-%}
-%\makeatother
-
-%----------------------------------------------------------------------------------------
-%	COPYRIGHT PAGE
-%----------------------------------------------------------------------------------------
 
 \makeatletter
 \uppertitleback{\@titlehead} % Header
@@ -117,6 +75,8 @@
 
 \dedication{
 	The harmony of the world is made manifest in Form and Number, and the heart and soul and all the poetry of Natural Philosophy are embodied in the concept of mathematical beauty.\\
+	\input{lualatex_checktext.tex}
+	\\
 	\flushright -- D'Arcy Wentworth Thompson
 }
 
@@ -178,17 +138,17 @@
 \addpart{Class Options, Commands and Environments}
 \pagelayout{margin} % Restore margins
 
-\input{chapters/options.tex}
-\input{chapters/textnotes.tex}
-\input{chapters/figsntabs.tex}
-\input{chapters/references.tex}
+%% \input{chapters/options.tex}
+%% \input{chapters/textnotes.tex}
+%% \input{chapters/figsntabs.tex}
+%% \input{chapters/references.tex}
 
 \pagelayout{wide} % No margins
 \addpart{Design and Additional Features}
 \pagelayout{margin} % Restore margins
 
-\input{chapters/layout.tex}
-\input{chapters/mathematics.tex}
+%% \input{chapters/layout.tex}
+%% \input{chapters/mathematics.tex}
 
 \appendix % From here onwards, chapters are numbered with letters, as is the appendix convention
 
@@ -196,7 +156,7 @@
 \addpart{Appendix}
 \pagelayout{margin} % Restore margins
 
-\input{chapters/appendix.tex}
+%% \input{chapters/appendix.tex}
 
 %----------------------------------------------------------------------------------------
 
