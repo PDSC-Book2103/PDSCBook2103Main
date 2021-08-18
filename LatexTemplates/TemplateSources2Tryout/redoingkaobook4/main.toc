@@ -11,7 +11,7 @@
 \defcounter {refsection}{0}\relax 
 \selectlanguage *{english}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\nonumberline Contents}{v}{chapter*.1}%
+\contentsline {chapter}{\nonumberline \textgreek {Πίνακας Περιεχομένων}}{v}{chapter*.1}%
 \defcounter {refsection}{0}\relax 
 \bgroup 
 \defcounter {refsection}{0}\relax 
@@ -29,7 +29,7 @@
 \defcounter {refsection}{0}\relax 
 \selectlanguage *{english}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {1}\textgreek {Εισαγωγή}}{1}{chapter.1}%
 \defcounter {refsection}{0}\relax 
 \etoc@startlocaltoc {2}
 \defcounter {refsection}{0}\relax 
