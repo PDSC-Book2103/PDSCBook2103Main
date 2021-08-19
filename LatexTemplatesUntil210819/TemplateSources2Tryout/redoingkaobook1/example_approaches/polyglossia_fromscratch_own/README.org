@@ -1,0 +1,6 @@
+#+TITLE: Readme
+# Fri Aug 13 16:00:35 2021
+
+My own setup from scratch, following example found in
+
+https://www.overleaf.com/learn/latex/Multilingual_typesetting_on_Overleaf_using_polyglossia_and_fontspec

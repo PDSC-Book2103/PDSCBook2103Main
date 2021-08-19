@@ -1,0 +1,65 @@
+\documentclass[fontsize=10pt, twoside=false, numbers=noenddot]{kaobook}
+
+\usepackage{fontspec}
+
+\newfontfamily{\greekfont}{FreeSerif}
+
+\setmainfont{FreeSerif}
+% \setmainfont{Linux Libertine}
+\setsansfont{FreeSans}
+\setmonofont{FreeMono}
+
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguages{greek}
+
+\usepackage{styles/kaobiblio}
+\addbibresource{main.bib} % Bibliography file
+
+\input{lualatex_template_pt01.tex}
+
+\sloppy
+
+\begin{document}
+\input{lualatex_testtext01.tex}
+
+This building from scratch is slow but it will succeed.
+
+\(Ελληνικά ...\), greek. \textbf{\textit{accident}}, and \textbf{\textit{ατύχημα.}}
+
+Now trying to fix this by enclosing it in a textgreek statement:
+The following word is going to be in Greek: \textgreek{Ελληνικά}. And continuing in English...
+
+
+\begin{greek}
+  Ελληνικά.
+
+  Καλημέρα Μάνο,
+
+    ας βρεθούμε μεθαύριο \textsf{Παρασκευή} στις 14:00, γιατί αύριο πρέπει να βοηθήσω σε δουλειές τη μάνα μου να μη βγαίνει με τη ζέστη.
+
+    Μπορούμε γενικότερα να αντικαταστήσουμε τις συναντήσεις που προτείνω για Δευτέρα, με αντίστοιχες τις Παρασκευές κάθε εβδομάδα.
+
+
+ΟΚ για αύριο Παρασκευή 14:00.
+Επίσης και για Δευτέρες-παρασκευές από δώ κα ιπέρα
+
+    Όσο \textit{περισσότερο} ξανα-επισκέπτομαι το Pure \texttt{Data} αυτές τις μέρες, τόσο \texttt{συνειδητοποιώ} τη δυσκολία του εγχειρήματος μας.
+
+    Σίγουρα μια safe θεώρηση είναι ένα step-by-step tutorial για το κάθε \textbf{προγραμματιστικό} περιβάλλον.
+
+\textit{Σίγουρα μια safe θεώρηση είναι ένα step-by-step tutorial για το κάθε προγραμματιστικό περιβάλλον.}
+
+
+Ας το δούμε μαζί. Μπορούμε να κάνουμε μαι γενική σύγκριση σε θεωρητικό επίπεδο σε ένα ξεχωριστό κεφαλαιο,
+και μετά να κάνουμε μια λίστα από βασικές εφαρμογες πχ. additive synthesis που μπορούν να γίνουν και με τια
+δυο περιβάλλοντα, και να δείξουμε πως γίνεται η καθε εφαρμογή στο καθένα, σε αντοπαράθεση και σύγκριση.
+Αρκει να φτιάξουμε την λίστα και να αρχίσουμε, και θα δούμε.
+
+    Πιο δύσκολο, εντούτοις ενδιαφέρον, να είναι κάθε Κεφάλαιο project based, όπου οι αναγνώστες να φτάνουν στο ίδιο αποτέλεσμα από δύο δρόμους.
+
+
+Νομ'ιζω αυτό εννοοώ και γώ παραπάνω. Ας αρχίσουμε και βλέπουμε.
+\end{greek}
+
+\end{document}

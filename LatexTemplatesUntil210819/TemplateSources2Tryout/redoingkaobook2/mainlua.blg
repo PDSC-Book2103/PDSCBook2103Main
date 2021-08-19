@@ -1,0 +1,5 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[0] Config.pm:315> INFO - Logfile is 'mainlua.blg'
+[104] biber:330> INFO - === Tue Aug 17, 2021, 18:47:02
+[121] Utils.pm:411> ERROR - mainlua.bcf is malformed, last biblatex run probably failed. Deleted mainlua.bbl
+[121] Biber.pm:132> INFO - ERRORS: 1

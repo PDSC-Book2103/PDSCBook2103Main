@@ -1,0 +1,82 @@
+#+TITLE: Readme
+
+
+* Source URL
+This example is from:
+* Original source
+
+#+begin_src latex
+documentclass{article}
+
+% License: Public domain for the TeX code.
+% The texts come from the Universal Declaration of Human Rights.
+
+% For the purposes of this sample, the default bidi method is enough,
+% and it works in all Unicode engines:
+
+\usepackage[bidi=default]{babel}
+
+% Also, the generic \babelprovide is enough, even if usually it's not
+% the recommended way to load languages:
+
+\babelprovide[import]{arabic}
+\babelprovide[import]{armenian}
+\babelprovide[import]{bengali}
+\babelprovide[import]{greek}
+\babelprovide[import]{hebrew}
+\babelprovide[import]{japanese}
+\babelprovide[import]{korean}
+\babelprovide[import]{romanian}
+\babelprovide[import]{serbian}
+\babelprovide[import]{vietnamese}
+
+\babelfont{rm}{FreeSerif}
+\babelfont[japanese]{rm}{IPAexMincho}
+\babelfont[korean]{rm}{Baekmuk Gulim}
+
+\setlength{\parindent}{0pt}
+
+\newcommand{\startlocale}[1]{%
+  \selectlanguage{#1}%
+  \section{\foreignlanguage{nil}{#1}}}
+
+\begin{document}
+
+\startlocale{arabic}
+
+يولد جميع الناس أحرارًا متساوين في الكرامة والحقوق. وقد وهبوا عقلاً وضميرًا وعليهم أن يعامل بعضهم بعضًا بروح الإخاء.
+
+\startlocale{armenian}
+
+Բոլոր մարդիկ ծնվում են ազատ ու հավասար՝ իրենց արժանապատվությամբ և իրավունքներով: Նրանք օժտված են բանականությամբ ու խղճով և պարտավոր են միմյանց վերաբերվել եղբայրության ոգով:
+
+\startlocale{greek}
+
+Όλοι οι άνθρωποι γεννιούνται ελεύθεροι και ίσοι στην αξιοπρέπεια και τα δικαιώματα. Είναι προικισμένοι με λογική και συνείδηση, και οφείλουν να συμπεριφέρονται μεταξύ τους με πνεύμα αδελφοσύνης.
+
+\startlocale{hebrew}
+
+כל בני האדם נולדו בני חורין ושווים בערכם ובזכויותיהם. כולם חוננו בתבונה ובמצפון, לפיכך חובה עליהם לנהוג איש ברעהו ברוח של אחווה.
+
+\startlocale{japanese}
+
+すべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。人間は、理性と良心とを授けられており、互いに同胞の精神をもって行動しなければならない。
+
+\startlocale{korean}
+
+모든 인간은 태어날 때부터 자유로우며 그 존엄과 권리에 있어 동등하다. 인간은 천부적으로 이성과 양심을 부여받았으며 서로 형제애의 정신으로 행동하여야 한다.
+
+\startlocale{romanian}
+
+Toate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și conștiință și trebuie să se comporte unele față de altele în spiritul fraternității.
+
+\startlocale{serbian}
+
+Сва људска бића рађају се слободна и једнака у достојанству и правима. Она су обдарена разумом и свешћу и треба једни према другима да поступају у духу братства.
+
+\startlocale{vietnamese}
+
+Mọi con người sinh ra đều tự do và bình đẳng về nhân phẩm và quyền lợi. Họ được tạo hóa ban cho lý trí và lương tâm và phải đối xử với nhau với tinh thần huynh đệ.
+
+\end{document}
+#+end_src
