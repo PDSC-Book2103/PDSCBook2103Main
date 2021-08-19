@@ -1,0 +1,14 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\defcounter {refsection}{0}\relax 
+\selectlanguage *{greek}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Περιεχόμενα}{v}{chapter*.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Εισαγωγή}{1}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\etoc@startlocaltoc {2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Οι Βασικές Ιδέες}{1}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Το παρόν Τμήμα γράφηκε σε org-mode!}{1}{section.1.2}%
