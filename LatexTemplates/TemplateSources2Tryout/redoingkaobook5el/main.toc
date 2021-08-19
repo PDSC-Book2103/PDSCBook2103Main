@@ -1,0 +1,6 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\defcounter {refsection}{0}\relax 
+\selectlanguage *{greek}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Περιεχόμενα}{v}{chapter*.1}%
