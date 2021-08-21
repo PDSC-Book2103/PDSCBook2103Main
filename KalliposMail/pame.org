@@ -2,6 +2,13 @@
 
 #+author: E. Rovithis, I. Zannos
 
+
+*bold*
+
+/plagia
+
+
+
 * TODO Curriculum
 | Software | midi   | audio      |
 |----------+--------+------------|
@@ -9,29 +16,9 @@
 | Pd       | ki edw | kati exei  |
 
 
-* TODO Planning
 
-** June
+* TODO August
 
-tyxaio keimeno
+** Αίτημα Παράτασης
 
-
-** July
-
- 1) learn Org Mode
-    *fast
-    *furious
- 2) play Wow
-
-
-** August
-
-*bold*
-
-/plagia grammata/
-
-
-
-* Αίτημα Παράτασης
-
-μπλα μπλα μπλα
+edw ekana mia allagi
