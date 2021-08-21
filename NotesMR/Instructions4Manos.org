@@ -1,0 +1,9 @@
+#+TITLE: Instructions4manos
+
+At this phase (19 Aug 2021 23:20) and until further notice, please
+use this folder to add new texts, notes, materials.
+
+Do this in your own branch (manos), and submit this by pushing
+the branch and creating pull requests.
+
+IZ 19 Aug 2021 23:22

@@ -1,0 +1,61 @@
+\documentclass[12pt]{scrartcl}
+
+\usepackage{silence}
+\WarningFilter{latex}{Command \InputIfFileExists}
+
+%%% For accessing system, OTF and TTF fonts
+%%% (would have been loaded by polylossia anyway)
+\usepackage{fontspec}
+\usepackage{xunicode} %% loading this first to avoid clash with bidi/arabic
+
+%%% For language switching -- like babel, but for xelatex
+\usepackage{polyglossia}
+
+%%% For the xelatex (and other LaTeX friends) logos
+\usepackage{hologo}
+
+%%% For the awesome fontawesome icons!
+\usepackage{fontawesome}
+
+\usepackage[hyphens]{url}
+
+
+\setmainlanguage{english}
+\setotherlanguages{greek} %% or other languages
+
+
+% Main serif font for English (Latin alphabet) text
+\setmainfont{Linux Libertine O}
+\setsansfont{Noto Sans}
+%% \setmonofont{Noto Mono}
+
+% define fonts for other languages
+\newfontfamily\greekfont[Script=Greek]{Linux Libertine O}
+
+\title{How to Write Multilingual Text with Different Scripts in \LaTeX{} using Polyglossia}
+\author{Lim Lian Tze}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+This is a mainly English document which contains other languages. Here we use \texttt{polyglossia} and \texttt{fontspec}.
+
+You'll need to use \hologo{XeLaTeX} or \hologo{LuaLaTeX} to compile this document. You can configure your Overleaf project to be compiled with \hologo{XeLaTeX} by clicking on the Overleaf menu button above the file list panel, and set \texttt{Compiler} to \texttt{XeLaTeX} or \texttt{LuaLaTeX}.
+
+\section{Greek}
+Here's some Greek:
+
+%% Lorem ipsum from http://generator.lorem-ipsum.info/_greek
+\begin{greek}
+Οδιο διστα ιμπεδιτ φιμ ει, αδ φελ αβχορρεανθ ελωκυενθιαμ, εξ εσε εξερσι γυβεργρεν ηας. Ατ μει σολετ σριπτορεμ. Ιυς αλια λαβωρε θε. Σιθ κυωτ νυσκυαμ ιρασυνδια αν, ωμνιυμ ελιγενδι ιν πρι. Παρτεμ φερθερεμ συσιπιαντυρ εξ ιυς, ναμ τωλλιτ ιυφαρεθ αδφερσαριυμ εα, πρω πρωπριαε σαεφολα ιδ. Ατ πρι δολορ νυσκυαμ.
+\end{greek}
+
+\section{How Do I Know What Fonts are Available on Overleaf?}
+
+You can check the list here: \url{https://www.overleaf.com/help/193}
+
+Tip: We have the Noto fonts!!
+
+\end{document}

@@ -1,0 +1,20 @@
+* Questions and Notes made during teaching
+
+** What is the use of Signal?
+
+The Signal is not an OutputProxy. It is also not a Buffer.  It holds data in sclang that when sent to scsynth can become a Buffer.
+
+** Can we make aliases so that changes in a parameter are reflected in many things?
+
+   
+* For 16 Dec 2020 11:03
+
+- Physical Modeling
+- Combine Simple Wave Forms
+- Waveshaping
+- Patterns
+
+https://thormagnusson.gitbooks.io/scoring/content/PartII/chapter11.html
+
+https://doc.sccode.org/Classes/Stk.html
+

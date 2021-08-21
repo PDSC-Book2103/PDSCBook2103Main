@@ -1,0 +1,44 @@
+\documentclass[fontsize=10pt, twoside=false, numbers=noenddot]{kaobook}
+
+\usepackage{fontspec}
+
+\newfontfamily{\greekfont}{FreeSerif}
+
+\setmainfont{FreeSerif}
+% \setmainfont{Linux Libertine}
+\setsansfont{FreeSans}
+\setmonofont{FreeMono}
+
+\usepackage{polyglossia}
+\setdefaultlanguage{greek}
+%% \setdefaultlanguage{english}
+\setotherlanguages{english}
+%% \setotherlanguages{greek}
+\usepackage{csquotes}
+
+\usepackage{styles/kaobiblio}
+\addbibresource{main.bib} % Bibliography file
+\usepackage{styles/mdftheorems}
+
+
+\graphicspath{{examples/documentation/images/}{images/}} % Paths in which to look for images
+\makeindex[columns=3, title=Alphabetical Index, intoc] % Make LaTeX produce the files required to compile the index
+\makeglossaries % Make LaTeX produce the files required to compile the glossary
+\makenomenclature % Make LaTeX produce the files required to compile the nomenclature
+\sloppy
+\begin{document}
+
+\input{titlepage2.tex}
+
+\input{contenttables.tex}
+
+%% \input{firstdummytext.tex}
+
+%% \input{firstdummytext.tex} % again
+
+\mainmatter % Denotes the start of the main document content, resets page numbering and uses arabic numbers
+\setchapterstyle{kao} % Choose the default chapter heading style
+
+\input{chapters/introduction.tex}
+
+\end{document}

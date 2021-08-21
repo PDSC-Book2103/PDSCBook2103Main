@@ -1,0 +1,75 @@
+
+\titlehead{Το βιβλίο του \texttt{PD} και του \texttt{SuperCollider} }
+\subject{Χρησιμοποιήστε αυτό το κείμενο σαν πρότυπο}
+
+\title[Παράδειγμα και τεκμηρίωση της τάξης {\normalfont\texttt{kaobook}}]{Παράδειγμα και τεκμηρίωση \\ της τάξης {\normalfont\texttt{kaobook}}}
+\subtitle{Προσαρμόσετε το παρόν κείμενο ανάλογα με τις ανάγκες σας}
+
+\author[Γιάννης Ζάννος και Μάνος Ροβίθης]{Γιάννης Ζάννος και Μάνος Ροβίθης \thanks{Μουσικοί και υπολογιστικοί μερακλήδες}}
+
+\date{\today}
+
+\publishers{Κάλλιπος}
+
+%----------------------------------------------------------------------------------------
+
+\frontmatter % Denotes the start of the pre-document content, uses roman numerals
+\makeatletter
+\uppertitleback{\@titlehead} % Header
+
+\lowertitleback{
+	\textbf{Αποποίηση}\\
+	Μπορείτε να επεξεργαστείτε την παρούσα σελίδα για να αντεπεξέλθει στις ανάγκες σας.  Παραδείγματος χάριν, έχουμε μια δήλωση αποποίησης πνευματικών δικαιωμάτων, εναν κολοφώνα και μερικές άλλες πληροφορίες.  Η παρούσα σελίδα βασίζεται στην αντίστοιχη σελίδα της διατριβής του Ken Arroyo Ohori, με ελάχιστες αλλαγές.
+	\medskip
+
+	\textbf{Αποποίηση πνευματικών δικαιωμάτω}\\
+	\cczero\ Το παρόν βιβλίο δημοσιεύεται στην δημόσια επικράτεια υπό τον κωδικό CC0.  Στον βαθμό που επιτρέπεται από το νόμο, αποποιούμαι κάθε πνευματική ιδιοκτησία και σχετικά δικαιώματα που αφορούν το παρόν έργο.
+
+	Για να δείτε μια κόπια της παρούσας δήλωσης, επισκεφτείτε: \\\url{http://creativecommons.org/publicdomain/zero/1.0/}
+
+	\medskip
+
+	\textbf{Κολοφών} \\
+	Το παρόν κείμενο δημοσιεύτηκε με χρήση του \href{https://sourceforge.net/projects/koma-script/}{\KOMAScript} και \href{https://www.latex-project.org/}{\LaTeX}, και της κλάσης \href{https://github.com/fmarotta/kaobook/}{kaobook}.
+	Ο πηγαίος κώδικας του παρόντος βιβλίου είναι διαθέσιμος στο:\\\url{https://github.com/fmarotta/kaobook}
+
+	(Είστε ευπρόσδεκτοι να συμβάετε!)
+
+	\medskip
+
+	\textbf{Κάλλιπος} \\
+	Πρώτη εκτύπωςη το 2021 από \@publishers
+}
+\makeatother
+
+%----------------------------------------------------------------------------------------
+%	DEDICATION
+%----------------------------------------------------------------------------------------
+
+\dedication{
+\textgreek{Κάθε μέρα που δεν αγάπησες είναι μια μέρα που δεν έζησες}\\
+
+	\flushright -- \textgreek{Στέφανος Ξενάκης}
+}
+
+%----------------------------------------------------------------------------------------
+%	OUTPUT TITLE PAGE AND PREVIOUS
+%----------------------------------------------------------------------------------------
+
+% Note that \maketitle outputs the pages before here
+
+% If twoside=false, \uppertitleback and \lowertitleback are not printed
+% To overcome this issue, we set twoside=semi just before printing the title pages, and set it back to false just after the title pages
+\KOMAoptions{twoside=semi}
+\maketitle
+\KOMAoptions{twoside=false}
+
+%----------------------------------------------------------------------------------------
+%	PREFACE
+%----------------------------------------------------------------------------------------
+
+%\input{chapters/preface.tex}
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS & LIST OF FIGURES/TABLES
+%----------------------------------------------------------------------------------------
