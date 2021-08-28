@@ -1,4 +1,4 @@
-#+title: The Quest for Pure Data and Super Collider
+#+title: The Quest for Pure Data and SuperCollider
 
 #+author: E. Rovithis, I. Zannos
 
@@ -17,7 +17,7 @@ Do this in your own branch (manos), and submit this by pushing the branch and cr
   3) στην οργάνωση που έχει κάνει ο Andy Farnell στο βιβλίο του "Designing Sound"
 
   με άλλα λόγια, έχω λάβει υπόψιν μόνο το συγκεντρωμένο υλικό για Pure Data
-  και δεν έχω κοιτάξει τη δόμηση των Κεφάλαιων που κάνετε εσείς στο υλικό σας για Super Collider.
+  και δεν έχω κοιτάξει τη δόμηση των Κεφάλαιων που κάνετε εσείς στο υλικό σας για SuperCollider. !!!!!
   Έκανα κάποιες αλλαγές ως προς τα Κεφάλαια που είχαμε καταθέσει στην πρόταση
   για ό,τι άλλο αλλάξουμε θα τροποποιήσω τη PureData ύλη αναλόγως.
 
@@ -55,7 +55,7 @@ Do this in your own branch (manos), and submit this by pushing the branch and cr
 ** Pure Data
 παρουσίαση περιβάλλοντος, community links, και help
 
-** Super Collider
+** SuperCollider
 
 
 * Κεφάλαιο 2 - Πρώτα Βήματα
@@ -75,7 +75,7 @@ Do this in your own branch (manos), and submit this by pushing the branch and cr
 data flow, θεμελιώδη σωματίδια (button, toggle, messages, number boxes, arithmetic objects)
 Άσκηση: Επαναλαμβανόμενος Μετρητής Ενεργειών (bangs) (μόνο με arithmetic tools objects)
 
-** Super Collider
+** SuperCollider
 
 
 * Κεφάλαιο 3 - Βασικά Στοιχεία και Δόμηση Μουσικών Προγραμμάτων
@@ -94,7 +94,7 @@ data flow, θεμελιώδη σωματίδια (button, toggle, messages, numb
 βασικά αντικείμενα (select, metro, timer)
 Άσκηση: μετρονόμος σε bpm
 
-** Super Collider
+** SuperCollider
 
 
 * Κεφάλαιο 8 - Το Ηχητικό Δείγμα
@@ -116,7 +116,7 @@ data flow, θεμελιώδη σωματίδια (button, toggle, messages, numb
 αντικείμενα καταγραφής και αναπαραγωγής, πίνακες τιμών
 Άσκηση: sampler και chopper με μεταβλητή playback speed
 
-** Super Collider
+** SuperCollider
 
 
 * Κεφάλαιο 4 - Ντετερμινισμός και Τυχαιοκρατία στη Μουσική Εκτέλεση
@@ -136,7 +136,7 @@ data flow, θεμελιώδη σωματίδια (button, toggle, messages, numb
 random, relational & logical operators
 Άσκηση: γεννήτρια τυχαίας παραγωγής ρυθμικών μοτίβων
 
-** Super Collider
+** SuperCollider
 
 
 * Κεφάλαιο 5 - Αρχές Σύνθεσης και Επεξεργασίας Ήχου
@@ -157,7 +157,7 @@ random, relational & logical operators
 γεννήτριες ταλαντωτών και θορύβου, περιβάλλουσα έντασης
 Άσκηση: γεννήτρια με τυχαία επιλογή εκ των βασικών κυματομορφών
 
-** Super Collider
+** SuperCollider
 
 
 * Κεφάλαιο 7 - Μουσική Δόμηση του Ήχου
@@ -180,7 +180,7 @@ random, relational & logical operators
 αντικείμενα διαχείρισης midi
 Άσκηση: γεννήτρια τυχαίων τονικών μοτίβων
 
-** Super Collider
+** SuperCollider
 
 
 * Κεφάλαιο 6 - Προσθετική και Αφαιρετική Σύνθεση
@@ -198,7 +198,7 @@ random, relational & logical operators
 αντικείμενα οπτικής παρατήρησης, φίλτρα
 Άσκηση: γεννήτρια για προσθήκη αρμονικών και φιλτράρισμα θορύβου.
 
-** Super Collider
+** SuperCollider
 
 
 * Κεφάλαιο 10 - Τεχνικές Διαμόρφωσης Σήματος
@@ -216,7 +216,7 @@ AM, FM
 εργαλεία AM FM
 Άσκηση: ενσωμάτωση στο όργανο
 
-** Super Collider
+** SuperCollider
 
 
 * Κεφάλαιο 12 - Προηγμένες Τεχνικές Σύνθεσης
@@ -234,7 +234,7 @@ granular, wavetable, FFT
 granular, wavetable, waveshaping?
 Άσκηση: ενσωμάτωση στο instrument
 
-** Super Collider
+** SuperCollider
 
 
 * Κεφάλαιο 11 - Τεχνικές Ανάδρασης
@@ -251,7 +251,7 @@ granular, wavetable, waveshaping?
 αντικείμενα καθυστέρησης
 Άσκηση: ενσωμάτωση στο όργανο
 
-** Super Collider
+** SuperCollider
 
 
 * Κεφάλαιο 13 - Σχεδιασμός Περιβάλλοντος Διεπαφής
@@ -270,7 +270,7 @@ GUI
 OSC, abstractions, plugins
 Άσκηση: ενσωμάτωση σε όργανο
 
-** Super Collider
+** SuperCollider
 
 
 
@@ -289,7 +289,7 @@ OSC, abstractions, plugins
 ** Pure Data
 Άσκηση: ενσωμάτωση σε όργανο
 
-** Super Collider
+** SuperCollider
 
 
 
@@ -308,4 +308,4 @@ OSC, abstractions, plugins
 
 *** Pure Data
 
-*** Super Collider
+*** SuperCollider
