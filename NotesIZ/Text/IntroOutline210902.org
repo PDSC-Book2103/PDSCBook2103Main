@@ -1,0 +1,26 @@
+#+TITLE: Intro Outline210902
+
+* compact intro example from "instant GLEW"
+:PROPERTIES:
+:DATE_DONE: [2021-09-02 Thu 09:12]
+:END:
+
+from: https://subscription.packtpub.com/book/application-development/9781783280476/1
+
+#+begin_quote
+Chapter 1. Instant GLEW
+
+Welcome to Instant GLEW. This book has been especially created to provide you with all the information that you need to set up and use the GLEW library. You will learn the basics of installing GLEW, get started with using OpenGL extensions, and discover some tips and tricks for using GLEW.
+
+This document contains the following sections:
+
+So, what is GLEW? helps you find out what GLEW actually is, what you can do with it, and why it makes using OpenGL extensions painless.
+
+Installation helps you learn how to download and install GLEW with minimum fuss, and then set it up so that you can use it as soon as possible.
+
+Quick start – using GLEW uses an example program to show you how to use GLEW with your OpenGL code with little effort.
+
+Top 5 features you need to know about helps you learn some of the other functionalities in GLEW, introduces a few useful GLEW utilities, and describes a technique to use OpenGL extensions without using GLEW.
+
+People and places you should get to know provides you with useful links to the project web pages and mailing lists, as well as a number of helpful books about GLEW.
+#+end_quote
