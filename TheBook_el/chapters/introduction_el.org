@@ -1,13 +1,14 @@
-* eectionize
+* Sectionize
 Η εισαγωγή θα γραφεί σε ελληνική Γλώσσα. Αποκλειστικά. Blah.
 
 Το κείμενο του παρόντος κειμένου κανονικά πρέπει να δημιουργηθεί από org-mode.
-* The
+* The first section is here.
 Επίσης πρέπει να δούμε πως θα χρησιμοποιούμε inline latex μέσα σε org-mode!
 ** Hell
 Γιά να δούμε *blah* θα λειτουργήσει /blih/.
 *** outathem
 Εδώ πρόσθεσα και κάτι άλλο, για σιγουριά και μετά συνέχισα τη δουλειά μου.
-** This should appear -without a number
+** appear a ενα νουμερο
 
 asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf
+** What happens when the heading is long?
